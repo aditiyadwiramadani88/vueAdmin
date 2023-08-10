@@ -6,3 +6,5 @@
 ```sh
 npm install 
 ```
+<img src="Screenshot.png" alt="Screenshot"/>
+
